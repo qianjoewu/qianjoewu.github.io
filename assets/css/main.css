@@ -1754,15 +1754,15 @@ input, select, textarea {
 			width: 100%;
 		}
 
-		.image.avatar64 {
-			width: 64px;
-			height: 64px;
+		.image.avatar80 {
+			width: 106px;
+			height:136px;
 			background: #f00;
 		}
 
-			.image.avatar64 img {
-				width: 64px;
-				height: 64px;
+			.image.avatar80 img {
+				width: 106px;
+				height: 136px;
 			}
 
 		.image.fit {
